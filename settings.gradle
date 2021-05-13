@@ -1,0 +1,3 @@
+include ':FacebookImagePicker'
+include ':app'
+rootProject.name = "DemoFBImagePicker"
